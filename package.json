@@ -1,0 +1,22 @@
+{
+  "name": "root",
+  "version": "0.0.1",
+  "main": "index.js",
+  "private":true,
+  "repository": "git@github.com:bitcreative-studios/futia.git",
+  "author": "George Bockari <bitwhys@gmail.com>",
+  "license": "MIT",
+  "workspaces":["packages/*"],
+  "scripts": {
+    "commit": "git cz"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "3.2.0",
+    "lerna": "^3.20.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
