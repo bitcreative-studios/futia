@@ -1,6 +1,7 @@
 {
   "name": "@bitcreative-studios/futia-petals",
-  "version": "0.1.0",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
