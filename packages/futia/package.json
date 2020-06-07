@@ -1,5 +1,5 @@
 {
-  "name": "@bitwhys/futia",
+  "name": "@bitcreative-studios/futia",
   "version": "0.1.0",
   "description": "Made with create-react-library",
   "author": "bitwhys",
@@ -7,7 +7,7 @@
   "repository": "git@github.com:bitcreative-studios/futia.git",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
-  "source": "src/index.tsx",
+  "source": "src/index.ts",
   "engines": {
     "node": ">=10"
   },

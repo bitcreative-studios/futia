@@ -1,5 +1,5 @@
 {
-  "name": "@bitwhys/futia-petals",
+  "name": "@bitcreative-studios/futia-petals",
   "version": "0.1.0",
   "scripts": {
     "start": "react-scripts start",
@@ -19,7 +19,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1",
     "typescript": "^3.9.5",
-    "@bitwhys/futia": ""
+    "@bitcreative-studios/futia": ""
   },
   "devDependencies": {
     "@babel/plugin-syntax-object-rest-spread": "^7.8.3"

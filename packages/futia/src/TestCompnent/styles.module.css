@@ -1,9 +1,14 @@
 /* add css module styles here (optional) */
+@import url("https://use.typekit.net/evw8zgp.css");
 
 .test {
   margin: 2em;
-  padding: 0.5em;
-  border: 2px solid #000;
+  padding: 0.6em;
+  border: 2px solid #ff0844;
+  color: #231b1b;
   font-size: 2em;
   text-align: center;
+  font-family: alverata-irregular, serif;
+  font-weight: 900;
+  letter-spacing: 4px;
 }

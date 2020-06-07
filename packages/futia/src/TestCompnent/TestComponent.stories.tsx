@@ -6,3 +6,5 @@ export default {
 }
 
 export const Basic = () => <TestComponent text="hello world" />
+
+export const Disabled = () => <TestComponent text="Under Construction" />
